@@ -24,8 +24,8 @@ Sigue estos pasos para instalar y ejecutar Link Analyzer:
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/x3089/link_analizer.git
-   cd link_analizer
+   git clone https://github.com/x3089/link_analyzer.git
+   cd link_analyzer
    ```
 
 2. **Configurar el entorno:**
