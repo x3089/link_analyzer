@@ -27,6 +27,7 @@ def is_malicious(link):
         if re.search(pattern, link, re.IGNORECASE):
             return True
     return False
+    ,
 
 def analyze_link(link):
     try:
